@@ -1,7 +1,6 @@
 <div align="center">
 <img src="" align="center" style="width: 100%" />
-</div>  
-
+</div>
 
 ### <div align="center">¡Hola!, Soy Adhemir, un apasionado desarrollador Backend que busca oportunidades para poner en práctica mis habilidades y conocimientos.
 
@@ -71,8 +70,7 @@ Estoy apasionado por crear soluciones robustas y eficientes en el lado del servi
 <a href="https://linkedin.com/in/adhemirsabino" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -86,19 +84,17 @@ Estoy apasionado por crear soluciones robustas y eficientes en el lado del servi
 
 <!-- BLOG-POST-LIST:START -->
 
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.
-
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
+<!-- <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
 
 <br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Adhemirsab&&style=flat-square" align="center" />
-</div>  
+</div>
 
 
 <br/>
@@ -106,11 +102,11 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center">
             <a href="https://www.buymeacoffee.com/Adhemirsab" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"
                     align="center"
                 />
             </a></div>
-<br />
+<br /> -->
 
 ---
 
